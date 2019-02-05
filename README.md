@@ -1,5 +1,5 @@
 # Arjuna Sankar PHP Code Sample
-Sample PHP Code for ctc's website, a custom magazine Blog.
+Sample PHP Code.
 
 ## Data Flow
 The website uses a custom MVC structure.
@@ -75,5 +75,3 @@ To walk through the flow of data follow the example.
 			}
 		}
 ```
-## Live Website
-To see live website go to http://coffeetablecoven.com
