@@ -1,6 +1,6 @@
 <div id="copyright">
   <div class="container" style="font-size: 16px;">
-    &copy; 2018 CoffeeTable Coven<br>
+    &copy; 2018 CoffeeTable Coven<br />
     <p class="terms-policy">
       <a href="terms.php#nav" style="font-size: 14px; color:blue;">
         Terms of Use
