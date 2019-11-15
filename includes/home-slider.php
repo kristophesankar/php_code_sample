@@ -119,7 +119,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="">
+            src="./images/home-slider/ctcwhite.png" 
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -147,7 +148,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="">
+            src="./images/home-slider/ctcwhite.png" 
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -175,7 +177,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="">
+            src="./images/home-slider/ctcwhite.png"
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -203,7 +206,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="" />
+            src="./images/home-slider/ctcwhite.png"
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -231,7 +235,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="" />
+            src="./images/home-slider/ctcwhite.png" 
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -258,7 +263,8 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="" />
+            src="./images/home-slider/ctcwhite.png" 
+            alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
