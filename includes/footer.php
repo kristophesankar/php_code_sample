@@ -16,7 +16,7 @@
         <a style="color:blue;"
           href="https://www.linkedin.com/in/arjuna-kristophe-sankar-67a736109/">
             Kristophe Sankar
-        <a>
+        </a>
       </p>
     </span>
   </div>
