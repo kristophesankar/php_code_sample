@@ -27,7 +27,11 @@
     </div>
   </div>
 
-  <div id="" class="container-fluid slick-slide" style="height: 90vh;position: relative;background: #2a2f27 url(./images/home-slider/17.jpg) no-repeat;background-size: cover;">
+  <div id="" class="container-fluid slick-slide" style="
+    height: 90vh;
+    position: relative;
+    background: #2a2f27 url(./images/home-slider/17.jpg) no-repeat;
+    background-size: cover;">
     <div class="row img-header-row justify-content-center">
       <div class="col-md-12 col-lg-8">
         <a href="index.php">
