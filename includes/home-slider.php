@@ -17,7 +17,7 @@
               margin-left: auto;
               margin-right: auto;"
             class="img-responsive col-lg-12 imglogo"
-            src="./images/home-slider/ctcwhite.png" alt="">
+            src="./images/home-slider/ctcwhite.png" alt="" />
         </a>
         <div class="header-sub">
           <h2 class="contentthemetitle"></h2>
@@ -54,7 +54,7 @@
   <div id="" class="container-fluid slick-slide" style="height: 90vh;position: relative;background: #2a2f27 url(./images/home-slider/19.jpg) no-repeat;background-size: cover;">
     <div class="row img-header-row justify-content-center">
       <div class="col-lg-8">
-        <a href="index.php"><img style="width:70%;height:auto;display: block;margin-left: auto;margin-right: auto;" class="img-responsive col-lg-12 imglogo" src="./images/home-slider/ctcwhite.png" alt=""></a>
+        <a href="index.php"><img style="width:70%;height:auto;display: block;margin-left: auto;margin-right: auto;" class="img-responsive col-lg-12 imglogo" src="./images/home-slider/ctcwhite.png" alt="" /></a>
         <div class="header-sub">
         <h2 class="contentthemetitle"></h2>
         <p class="contentthemedescription"></p>
